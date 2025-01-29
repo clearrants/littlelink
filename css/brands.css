@@ -88,8 +88,8 @@
 
 /* UptimeKuma */
 .button-uptime-kuma {
-	--button-text:#ffffff;
-	--button-background:#090C10;
+	--button-text:#000000;
+	--button-background:#ffffff;
 	--button-border:1px solid #212121;
 }
 
