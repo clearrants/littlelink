@@ -38,56 +38,60 @@
 	--button-border:1px solid #ffffff;
 }
 
-/* Amazon */
+/* Dozzle */
 .button-dozzle {
 	--button-text:#000000;
 	--button-background:#FFFFFF;
 	--button-border:1px solid #212121;
 }
 
+/* Dockge */
 .button-dockge {
 	--button-text:#000000;
 	--button-background:#FFFFFF;
 	--button-border:1px solid #212121;
 }
 
-.button-debian {
-	--button-text:#ffffff;
-	--button-background:#d70a53;
-	--button-border:1px solid #212121;
-}
-
+/* Homebox */
 .button-homebox {
 	--button-text:#000000;
 	--button-background:#FFFFFF;
 	--button-border:1px solid #212121;
 }
 
+/* ntfy */
 .button-ntfy {
 	--button-text:#ffffff;
 	background-image:linear-gradient(150deg, rgba(51,133,116,1) 0%, rgba(86,189,168,1) 100%);
 }
 
-.button-upsnap {
-	--button-text:#000000;
-	--button-background:#FFFFFF;
-	--button-border:1px solid #212121;
-}
-
-.button-uptime-kuma {
+/* Syncthing - Debian-VM */
+.button-debian {
 	--button-text:#ffffff;
-	--button-background:#090C10;
+	--button-background:#d70a53;
 	--button-border:1px solid #212121;
 }
 
+/* Syncthing - Windows */
 .button-windows {  
 	--button-text:#ffffff;
 	--button-background:#0078D7;
 	--button-border:1px solid #212121;
 }
 
+/* UpSnap */
+.button-upsnap {
+	--button-text:#000000;
+	--button-background:#FFFFFF;
+	--button-border:1px solid #212121;
+}
 
-
+/* UptimeKuma */
+.button-uptime-kuma {
+	--button-text:#ffffff;
+	--button-background:#090C10;
+	--button-border:1px solid #212121;
+}
 
 /* Amazon */
 .button-amazon {
