@@ -38,6 +38,14 @@
 	--button-border:1px solid #ffffff;
 }
 
+/* AdGuard Home */
+.button-adguard-home {
+	--button-text:#ffffff;
+	--button-background:#67b279;
+	--button-border:1px solid #212121;
+}
+
+
 /* Dockge */
 .button-dockge {
 	--button-text:#000000;
@@ -52,6 +60,13 @@
 	--button-border:1px solid #212121;
 }
 
+/* Home Assistant */
+.button-home-assistant {
+	--button-text:#ffffff;
+	--button-background:#03a9f4;
+	--button-border:1px solid #212121;
+}
+
 /* Homebox */
 .button-homebox {
 	--button-text:#000000;
@@ -63,6 +78,20 @@
 .button-ntfy {
 	--button-text:#ffffff;
 	background-image:linear-gradient(150deg, rgba(51,133,116,1) 0%, rgba(86,189,168,1) 100%);
+}
+
+/* Proxmox */
+.button-proxmox {
+	--button-text:#000000;
+	--button-background:#FFFFFF;
+	--button-border:1px solid #212121;
+}
+
+/* Raspberry Pi */
+.button-raspberry-pi {
+	--button-text:#000000;
+	--button-background:#FFFFFF;
+	--button-border:1px solid #212121;
 }
 
 /* Syncthing - Debian-VM */
